@@ -17,7 +17,7 @@ An example of a python script to split a worksheet into multiple worksheets base
 1. Clone this github repository by either downloading the zip file or using the following command line command:
 
 ```bash
-git clone ...
+git clone https://github.com/GeorgiySav/custom-python-excel-script.git
 ```
 
 2. Make sure you have downloaded the dependencies.
